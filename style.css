@@ -223,7 +223,7 @@ i {
 
 
 #preloader {
-    background: url(./image/cropped-3840-2160-1129258.png);
+    background: url(./image/cropped-3840-2160-1129258.png), #000000;
     height: 1000px;
     width: 3000px;
     position: fixed;
