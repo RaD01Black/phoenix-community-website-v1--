@@ -35,6 +35,7 @@ body {
     #d4d4d4);
     animation: animate 4s linear infinite;
     animation-delay: 2s;
+    border-radius: 20px;
 }
 
 .box::before {
@@ -45,6 +46,7 @@ body {
     background-image: conic-gradient(transparent,transparent,transparent,
      #5900ff);
     animation: animate 4s linear infinite;
+    border-radius: 20px;
 }
 
 @keyframes animate {
@@ -58,6 +60,7 @@ body {
     }
 
 }
+
 
 .box span{
     position: absolute;
@@ -110,6 +113,7 @@ button {
     background-color: #151318;
     font-size: x-large;
     font-weight: bolder;
+    border: none;
 
 }
 
