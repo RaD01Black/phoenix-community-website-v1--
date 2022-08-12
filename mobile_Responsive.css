@@ -7,5 +7,23 @@
         margin-bottom: 30px;
     }
 
+    .box{
+
+        
+    }
+
 }
 
+@media (max-width: 545px) {
+
+    .box{
+
+        border-radius: 0;
+
+    }
+
+    button {
+        border-radius: 0;
+    }
+
+}

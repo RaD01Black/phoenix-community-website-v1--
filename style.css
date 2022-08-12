@@ -49,7 +49,7 @@ body {
     border-radius: 20px;
 }
 
-@-webkit-keyframes animate {
+@keyframes animate {
     0%
     {
         transform: rotate(0deg);
