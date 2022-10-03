@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Dana;
+    font-style: normal;
+    src: url('../fonts/dana-regular.eot');
+    src: url('../fonts/dana-regular.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/dana-regular.woff2') format('woff2'), /* FF39+, Chrome36+, Opera24+*/
+    url('../fonts/dana-regular.woff') format('woff')
+}
+
+@font-face {
+    font-family: DanaBold;
+    font-style: normal;
+    src: url('../fonts/dana-bold.eot');
+    src: url('../fonts/dana-bold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/dana-bold.woff2') format('woff2'), /* FF39+, Chrome36+, Opera24+*/
+    url('../fonts/dana-bold.woff') format('woff')
+}
+
+@font-face {
+    font-family: DanaFD;
+    font-style: normal;
+    src: url('../fonts/dana-fanum-regular.eot');
+    src: url('../fonts/dana-fanum-regular.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/dana-fanum-regular.woff2') format('woff2'), /* FF39+, Chrome36+, Opera24+*/
+    url('../fonts/dana-fanum-regular.woff') format('woff')
+}
+
+@font-face {
+    font-family: DanaFDBold;
+    font-style: normal;
+    src: url('../fonts/dana-fanum-bold.eot');
+    src: url('../fonts/dana-fanum-bold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/dana-fanum-bold.woff2') format('woff2'), /* FF39+, Chrome36+, Opera24+*/
+    url('../fonts/dana-fanum-bold.woff') format('woff')
+}
+
+body {
+    font-family: Dana !important;
+}
+
+.card.bg-dark{
+    color: #000000 !important;
+}
+
+.ash-bg-body {
+    background-color: #fff;
+}
+
+.ash-col {
+    margin: 32px 0;
+}
